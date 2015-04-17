@@ -185,12 +185,12 @@
                           <!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 photography">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Essence" href="http://reducedtobinary.github.io/essentialfeelings/" target="_blank">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="App Market" href="http://reducedtobinary.github.io/appMarket/" target="_blank">
                                 	<span class="overlay-img"></span>
                                      <span class="overlay-img-thumb fa fa-paper-plane"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="img/work/thumbs/folio03.png" alt="">
+                                <img src="img/work/thumbs/folio01.png" alt="">
                             </li>
                         	<!-- End Item Project -->                        
 							
@@ -318,7 +318,7 @@
 <script src="js/jquery.fancybox-media.js"></script> <!-- Fancybox for Media -->
 <script src="js/jquery.tweet.js"></script> <!-- Tweet -->
 <script src="js/plugins.js"></script> <!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
-<script src="_include/js/main.js"></script> <!-- Default JS -->
+<script src="js/main.js"></script> <!-- Default JS -->
 <!-- End Js -->
 
 </body>
